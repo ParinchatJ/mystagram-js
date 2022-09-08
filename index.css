@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    padding: 2rem 15rem;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 4rem;
+}
+
+input {
+    border: 2px solid #def1e5;
+    border-radius: 20px;
+    width: 50%;
+    height: 50px;
+    padding: 20px;
+    margin-bottom: 24px;
+    font-size: 20px;
+}
+
+input:focus {
+    outline: none;
+}
+
+img {
+    margin: 10px;
+}
